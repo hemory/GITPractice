@@ -2,3 +2,5 @@ Hey You!
 
 
 An easy way to see if changes have been made to the remote and bring the changes down to your local copy is with:
+
+This is a new change.
