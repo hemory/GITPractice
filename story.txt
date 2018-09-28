@@ -4,3 +4,5 @@ Hey You!
 An easy way to see if changes have been made to the remote and bring the changes down to your local copy is with:
 
 This is a new change.
+
+The rm command has a powerful option, -R (or -r), otherwise known as the recursive option. When you run the rm -R command on a folder, you’re telling Terminal to delete that folder, any files it contains, any sub-folders it contains, and any files or folders in those sub-folders, all the way down.
